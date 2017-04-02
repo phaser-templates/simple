@@ -1,3 +1,9 @@
 {
-  "schema": {}
+  "prompts": {
+    "community": {
+       "type": "confirm",
+       "message": "Use Phaser CE?",
+       "default": false
+    }
+  }
 }
